@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942480085276",
+    "project_id": "parking-control-fa2da",
+    "storage_bucket": "parking-control-fa2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942480085276:android:4100fadc6371a6c042aad9",
+        "android_client_info": {
+          "package_name": "com.example.graduation2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942480085276-v86i9knsj225fr1407eh89s5n99e3qm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graduation2",
+            "certificate_hash": "7eb9ce9da316d5efa55702ad25618f4c4437e5f7"
+          }
+        },
+        {
+          "client_id": "942480085276-ugtd9f75qm6efusb05u0ue5jaah4v63k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegvOcF1WKQGMktCbQpHJL6HtFnraT9mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942480085276-ugtd9f75qm6efusb05u0ue5jaah4v63k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
