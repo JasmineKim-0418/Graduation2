@@ -12,7 +12,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        btn.setOnClickListener{
+        checkbtn.setOnClickListener{
+            val intent = Intent(this, Inputnum::class.java)
+            startActivity(intent)
+        }
+        addcarbtn.setOnClickListener{
+            val intent = Intent(this, Inputnum::class.java)
+            startActivity(intent)
+        }
+
+        listbtn.setOnClickListener{
             val intent = Intent(this, Inputnum::class.java)
             startActivity(intent)
         }
